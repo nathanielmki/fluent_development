@@ -1,0 +1,2 @@
+C:\Users\shado\source\repos\fluent_development\App1\App1.Core\obj\Debug\netstandard2.0\App1.Core.AssemblyInfoInputs.cache
+C:\Users\shado\source\repos\fluent_development\App1\App1.Core\obj\Debug\netstandard2.0\App1.Core.AssemblyInfo.cs
